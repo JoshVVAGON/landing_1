@@ -1,0 +1,52 @@
+body {
+    background-color: #C8D3D5;
+    color : #02111B;
+    font-family: 'Merriweather', serif;
+}
+
+.card-board {
+    background-color: #A4B8C4;
+    padding : 20px;
+    width : 750px;
+    box-shadow: 0px 10px 30px rgba(50,50,50,0.1);
+    margin : 20px auto;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.image-circle {
+    border-radius: 7px;
+}
+
+#pdp {
+    width : 250px;
+    height : 250px;
+}
+
+.fa-brands {
+    font-size: 50px;
+    color: #02111B;
+}
+
+h1 {
+    color : #3F4045;
+    font-size : 75px; 
+    font-weight: 900;
+}
+
+.btn {
+        display: inline-block;
+        padding: 10px 20px;
+        font-size: 16px;
+        font-weight: bold;
+        font-family: 'Poppins', sans-serif;
+        text-align: center;
+        text-decoration: none;
+        border-radius: 5px;
+        border: none;
+        color: black;
+        opacity: 0.8;
+        margin: 16px;    
+    }
+
+
